@@ -1,8 +1,12 @@
+WARNING!
+
 All rights belong to their respective owners (Zoho CRM API Team)
 
 This repo created only for support legacy package purposes!
 
 Please visit https://github.com/zoho/zcrm-php-sdk for latest version!
+
+WARNING!
 
 #PHP SDK for Zoho CRM
 ----------------------
